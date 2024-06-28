@@ -13,10 +13,11 @@
 3. Files
 
     Download the following files to help you get started:
+    https://static.bc-edx.com/data/dl-1-2/m2/lms/starter/Starter_Code.zip 
 
     Module 2 Challenge filesLinks to an external site.
 
-4. Instructions
+5. Instructions
 
     Create a script that loops through all the stocks for each quarter and outputs the following information:
 
@@ -34,7 +35,7 @@
 
     Make the appropriate adjustments to your VBA script to enable it to run on every worksheet (that is, every quarter) at once.
 
-5. NOTE
+6. NOTE
 
     Make sure to use conditional formatting that will highlight positive change in green and negative change in red.
 
